@@ -1,0 +1,12 @@
+{
+  "name": "simpleExpress",
+  "description": "Simple express implementation.",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "3.x"
+  },
+  "devDependencies": {
+  	"morgan": "1.*"
+  }
+}
