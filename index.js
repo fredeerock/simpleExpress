@@ -35,6 +35,6 @@ app.use(express.static(__dirname + '/public'));
 app.listen(3000);
 console.log('listening on port 3000');
 console.log('try:');
-console.log('  GET /hello.txt');
+console.log('  GET /index.html');
 console.log('  GET /js/app.js');
 console.log('  GET /css/style.css');
